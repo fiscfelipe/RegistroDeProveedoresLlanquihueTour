@@ -35,7 +35,7 @@ Contiene la clase principal del sistema.
 
 ### model
 
-Contiene las entidades del dominio.
+Contiene las clases correspondientes al modelo diseñado.
 
 * Persona
 * ProveedorTransporte
@@ -49,7 +49,7 @@ Contiene las entidades del dominio.
 
 ### service
 
-Contiene la lógica de negocio y gestión de registros.
+Contiene la lógica y gestión de los registros.
 
 * RegistroService
 
