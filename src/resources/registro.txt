@@ -6,5 +6,3 @@ ALOJAMIENTO;María Soto;11222333-4;maria@live.cl;Costanera;789;Frutillar;Los Lag
 ALOJAMIENTO;Pedro González;13579246-8;pedro@gmail.com;Imperial;456;Puerto Montt;Los Lagos;Hotel Patagonia;40;Urmeneta;150;Puerto Montt;Los Lagos
 ALOJAMIENTO;Ana Hernández;15432198-7;ana@hotmail.com;Pérez Rosales;210;Puerto Varas;Los Lagos;Cabañas del Lago;12;Del Lago;300;Puerto Varas;Los Lagos
 ALOJAMIENTO;Luis Navarro;17890123-5;luis@yahoo.cl;Los Carrera;145;Llanquihue;Los Lagos;Residencial Llanquihue;8;Baquedano;98;Llanquihue;Los Lagos
-
-TRANSPORTE;Felipe Saldias;17599806-3;fisc.felipe@gmail.com;union;33;vina del mar;valparaiso;van;DX3232;10
