@@ -26,8 +26,8 @@ public class Alojamiento {
             throw new IllegalArgumentException("El nombre del alojamiento no puede estar vacio.");
         }
 
-        if (habitacionesDisponibles <= 0) {
-            throw new IllegalArgumentException("Las habitaciones disponibles deben ser mayores a cero.");
+        if (habitacionesDisponibles < 0) {
+            throw new IllegalArgumentException("Las habitaciones disponibles deben ser mayores o iguales a cero.");
         }
 
         if (direccion == null) {
