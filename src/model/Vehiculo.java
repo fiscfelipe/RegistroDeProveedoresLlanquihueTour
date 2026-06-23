@@ -30,7 +30,7 @@ public class Vehiculo {
             throw new IllegalArgumentException("La patente no puede ser un campo vacío.");
         }
 
-        if (asientosDisponibles <= 0) {
+        if (asientosDisponibles < 0) {
             throw new IllegalArgumentException("Los asientos disponibles deben ser mayores o iguales a cero.");
         }
 
