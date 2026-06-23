@@ -2,7 +2,7 @@
 
 ## Descripción
 
-LlanquihueTour es una aplicación desarrollada en Java para gestionar proveedores de servicios turísticos de transporte y alojamiento.
+Registro de Proveedores es una aplicación desarrollada en Java para gestionar proveedores de servicios turísticos de transporte y alojamiento para la empresa Llanquihue Tour.
 
 El sistema permite cargar registros desde un archivo de texto, realizar consultas, filtrar proveedores según su categoría y agregar nuevos registros, manteniendo la información almacenada de forma permanente.
 
